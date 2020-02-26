@@ -2,9 +2,10 @@
 ![date](https://img.shields.io/badge/Date-2020%2F03%2F28-fff69b4)
 
 
-這個Repository是用於婚禮請柬的移動婚禮請柬。 如果您喜歡此存儲庫，請給我們提供很多幫助。 祝賀將作為拉取請求發送給您。 :)
+這個Repository是用於婚禮請柬的移動婚禮請柬。 如果您喜歡此存儲庫， 可以把祝賀push上來。 :)
 
-有關如何發送祝賀消息的信息，就直接clone下來寫上你想說的話在push回來就可以了 👍
+有關如何發送祝賀消息的信息，透過[Git](https://backlog.com/git-tutorial/tw/intro/intro2_1.html) clone專案，修改專案中README.md文件，寫下你想說的話後Push回來就可以了 👍
+
 
 ![主照片](https://github.com/e23882/Chris-Leo-sWedding/blob/master/img/HK4A3416.jpg)
 
