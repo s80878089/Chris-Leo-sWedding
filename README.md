@@ -7,7 +7,7 @@
 有關如何發送祝賀消息的信息，透過[Git](https://backlog.com/git-tutorial/tw/intro/intro2_1.html) clone專案，修改專案中README.md文件，寫下你想說的話後Push回來就可以了 👍
 
 
-![主照片](file:///D:/Backup/LeoYang/Desktop/e23882.github.io/Wedding/images/pic2.jpg)
+![主照片](https://e23882.github.io/Wedding/images/pic2.jpg)
 
 ## 儀式資訊
 
