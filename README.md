@@ -13,7 +13,7 @@
 
 * 日期 : 2020年 3月 28日 10:00 AM
 * 地點 : 桃園市桃園區莊敬路二段369號 皇家薇庭
-* 婚禮邀請網址 url : https://ooooooo/
+* 婚禮邀請網址 url : https://e23882.github.io/Wedding/index.html
 
 ## 恭喜啦
 
